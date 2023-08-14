@@ -1,0 +1,8 @@
+# programa-placartime1=int(input("placar do primeiro time: "))
+time2=int(input("placar do segundo time: "))
+if time1 >= 3:
+   print ("time 1 é campeão")
+elif time2 < time1: 
+  print ("time 2 perdeu")
+elif time1 == time2:
+  print("houve empate")-de-jogo
